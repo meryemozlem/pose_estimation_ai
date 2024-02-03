@@ -134,3 +134,9 @@ with accuracy.
 
   
 ## 6. Screenshots
+
+
+![alt text](http://ur![Ekran görüntüsü 2024-01-23 221142](https://github.com/meryemozlem/pose_estimation_ai/assets/82104183/8c1d7931-90d1-450b-9578-9dbd66c758e1)
+l/to/img.png)
+
+
