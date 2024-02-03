@@ -1,8 +1,9 @@
 # pose_estimation_ai
 REAL-TIME BODY POSE ESTIMATION   A PROGRAM THAT DETECTS WITH THE SUPPORT OF ARTIFICIAL INTELLIGENCE AND  DESIGN
+## 1. INTRODUCTION  
 
-1. INTRODUCTION  
 1.1 Purpose of the Project   
+
 Program and design project that detects real-time body pose estimation with artificial intelligence support 
 in many fields of computer vision, such as human-computer interaction, artificial intelligence and sports. 
 is an applicable research topic. The main objective of the project is health monitoring with Artificial Intelligence  
@@ -21,7 +22,8 @@ coaching and analyzing the user's body form in real time.
 aims to provide suggestions for correction and improvement. Up-to-date with continuous development 
 working on the research topic and gaining different perspectives on development are also among the objectives. 
 is one of them. 
-1.2 Similar Examples in the World and in Turkey  
+## 2. Similar Examples in the World and in Turkey  
+
 Real-time body pose estimation has been a major area of research in artificial intelligence and image processing in recent years. 
 development. Similar examples in this field include many projects around the world and in our country. 
 covers. Research has shown that various projects developed in this field, especially artificial intelligence 
@@ -39,10 +41,9 @@ There are additional indicators and features that distinguish this project from 
 A software that instantly returns the body position value and warns if the posture position is incorrect 
 and all optimizations have been enhanced by making it easier for users to read the expressions. 
 included.
+  
+## 3.PROJECT CONTENT AND SCOPE 
 
- /n
- 
-2. PROJECT CONTENT AND SCOPE 
 Computer vision modeling with human pose estimation, such as limbs or joints in the human body 
 to try to identify the important points and to determine one's position in the moment. 
 is a project that can help. It is a project where movement patterns are analyzed and based on the input 
@@ -84,8 +85,7 @@ mathematical functions have been tested in studies and the classification algori
 the impact on the performance results is analyzed in detail. By making evaluations, the optimization 
 successful, strongly performing classification algorithm and real-time convolutional neural 
 networks architecture to classify body positions processed in real time. 
-project that can perform its task simultaneously.
-
+project that can perform its task simultaneously. 
 Pose detection and position sensing systems in combination with other computer vision techniques 
 health, coaching, commercial, military, security, social, psychological, pedestrian's body in autonomous vehicles 
 language detection, recognition of hand movements, limb rehabilitation training, sports guidance, 
@@ -94,8 +94,10 @@ to facilitate human body pose estimation. Real-time detection of human body pose
 will lead to significant advances in the field of computer vision, with wide application use 
 has potential. This technology can provide more accurate, reliable and cost-effective results. 
 research and development activities are ongoing to produce the system. 
-3. DESIGN, REALIZATION AND TESTING 
-3.1 Technologies, Platforms and Languages Used in the Project   
+## 4. DESIGN, REALIZATION AND TESTING 
+
+#4.1 Technologies, Platforms and Languages Used in the Project  
+
 Development of the project application, body position prediction with artificial intelligence and biceps curl 
 MediaPipe framework and Python programming language to create a (sports movement) counter 
 to predict body joints and parts. In the project, MediaPipe is used to predict body joints and parts. 
@@ -113,8 +115,7 @@ OpenCV is used to visualize and process the image. This
 technologies provide solutions in image processing and artificial intelligence applications.  
 Trigonometric operations, a subfield of Mathematics, to calculate angles between body joints 
 is used. The math library is set up and trigonometry functions are used 
-the calculation of the angles between the joints is facilitated.  
-The development experiments were designed on Google Colaboratory and Visual Studio Code platforms. 
+the calculation of the angles between the joints is facilitated. The development experiments were designed on Google Colaboratory and Visual Studio Code platforms. 
 Colaboratory enables fast training of deep learning and machine learning models on GPU. 
 results can be accessed and developed, and no additional downloads are required due to ready-made Python libraries. 
 is a free cloud service tool that allows easy use without the need to be heard.  
@@ -125,3 +126,11 @@ is used. By combining MediaPipe, Python, OpenCV and trigonometry features,
 facilitates the processing of images from the camera. Predicting body joints 
 motion tracking by calculating angles, calculating angles and estimating posture using this information. 
 with accuracy.
+## Tests
+
+```bash
+  %pip install mediapipe opencv-python 
+```
+
+  
+## 2. Screenshots
