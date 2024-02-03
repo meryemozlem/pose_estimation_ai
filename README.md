@@ -1,5 +1,7 @@
 # pose_estimation_ai
-REAL-TIME BODY POSE ESTIMATION   A PROGRAM THAT DETECTS WITH THE SUPPORT OF ARTIFICIAL INTELLIGENCE AND  DESIGN
+
+Real-time Body Pose Estimation A Program That Detects With The Support Of Artificial Intelligence And Design
+
 ## 1. INTRODUCTION  
 
 1.1 Purpose of the Project   
