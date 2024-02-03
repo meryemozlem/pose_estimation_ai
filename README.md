@@ -136,7 +136,13 @@ with accuracy.
 ## 6. Screenshots
 
 
-![alt text](![Ekran görüntüsü 2024-01-23 221142](https://github.com/meryemozlem/pose_estimation_ai/assets/82104183/940cdf98-6ebb-4bc1-850d-e1d64e07fc12)
+![](![Ekran görüntüsü 2024-01-23 221142](https://github.com/meryemozlem/pose_estimation_ai/assets/82104183/940cdf98-6ebb-4bc1-850d-e1d64e07fc12)
+)
+
+![alt text](![Ekran görüntüsü 2024-01-23 220750](https://github.com/meryemozlem/pose_estimation_ai/assets/82104183/ebb03c1c-acaf-4fa9-8d9a-9a0ae36d77c4)
+)
+
+![alt text](![Ekran görüntüsü 2024-01-23 220729](https://github.com/meryemozlem/pose_estimation_ai/assets/82104183/a7b52df6-1c13-42d6-abd3-3417ee955c2a)
 )
 
 
