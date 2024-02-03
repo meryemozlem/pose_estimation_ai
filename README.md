@@ -126,11 +126,11 @@ is used. By combining MediaPipe, Python, OpenCV and trigonometry features,
 facilitates the processing of images from the camera. Predicting body joints 
 motion tracking by calculating angles, calculating angles and estimating posture using this information. 
 with accuracy.
-## Tests
+## 5. Tests
 
 ```bash
   %pip install mediapipe opencv-python 
 ```
 
   
-## 2. Screenshots
+## 6. Screenshots
